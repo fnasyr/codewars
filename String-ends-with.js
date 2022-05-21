@@ -7,6 +7,13 @@
 
 
 
+// Solution:
+
+//Parameter: string
+//Result: return
+// Pseudo:
+// if the return is the ending of string, then return true
+//otherwise, return false 
 
 
 
