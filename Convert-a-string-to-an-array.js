@@ -8,7 +8,7 @@
 
 
 
-split a string and return 
+
 
 function stringToArray(s){
     return s.split(' ');
