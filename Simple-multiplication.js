@@ -5,6 +5,7 @@
 //Parameter: number
 //Result: console 
 
+
 //if number is even Example:(2,4,6,8,10) => then, number*8
 //if number is odd Example:(1,3,5,7,11) => then, number*9
 
