@@ -23,8 +23,8 @@ function hero(bullets, dragons){
     }
   }
   //result:
-  console.log(hero(2,4))
-  console.log(hero(10,1))
-  console.log(hero(5,30))
+  console.log(hero(2,4))//false
+  console.log(hero(10,1))//true
+  console.log(hero(5,30))//false
 
 
