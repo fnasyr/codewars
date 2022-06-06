@@ -12,8 +12,15 @@
 
 
 
+//SOLUTION:
+//Parameter: number
+//Result: console
+//Pseudo: For everyday renting the car is 40 dollars. Every time you rent the car for 7 or more than 7 days you recieve 50 dollars off.
+//Every time you rent the car for 3 days or more, than you receive 20 dollars off. Write a code showing that total amount for different days.
 
-	
+
+
+
 	function rentalCarCost(d) {
 		var total = d*40
 		if( d>=7)
@@ -24,3 +31,6 @@
 		return total
 		
 		}
+		console.log(rentalCarCost(2))//80
+		console.log(rentalCarCost(9))//310
+		console.log(rentalCarCost(5))//180
