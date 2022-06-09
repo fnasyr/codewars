@@ -21,7 +21,7 @@ function bonusTime(salary, bonus) {
       
       return "£" + (salary*10).toString();
     }else{
-      return "£"+ salary.toString();
+      return "£"+ salary.toString(); 
     }
    }
      
